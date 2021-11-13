@@ -149,6 +149,12 @@ TextureImporter:
   - first:
       213: -6813459960075662660
     second: torch_8
+  - first:
+      213: -4356875786548134849
+    second: chest_1
+  - first:
+      213: 4332630308760004205
+    second: chest_0
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -1274,6 +1280,48 @@ TextureImporter:
       bones: []
       spriteID: cbac75cf34ab171a0800000000000000
       internalID: -6813459960075662660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c3c4c4e844983c0800000000000000
+      internalID: -4356875786548134849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_0
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d662bb08f48902c30800000000000000
+      internalID: 4332630308760004205
       vertices: []
       indices: 
       edges: []
